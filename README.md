@@ -1,9 +1,9 @@
 # Коллекция пользовательских сниппетов
 Все скрипты запускаются через DevTools / Console (Desktop).
 
-- [smartScroller](###smartscroller) — универсальный автоскроллер
-- [vkPlaylistExporter](###vkplaylistexporter) — экспорт треков из ВК музыки в TXT документ
-- [vkMassPlaylistAdder](###vkmassplaylistadder) — массовое добавление/перемещение треков в плейлисты 
+- [smartScroller](#smartscroller) — универсальный автоскроллер
+- [vkPlaylistExporter](#vkplaylistexporter) — экспорт треков из ВК музыки в TXT документ
+- [vkMassPlaylistAdder](#vkmassplaylistadder) — массовое добавление/перемещение треков в плейлисты 
 
 ---
 
